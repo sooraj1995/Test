@@ -12,4 +12,4 @@ LR_IROM1 0x00000000 0x00080000  {    ; load region size_region
    .ANY (+RW +ZI)
   }
 }
-
+r
